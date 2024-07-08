@@ -10,4 +10,4 @@ Ambos criados pela OpenAI: ChatGPT e MuseNet
 Bom basicamente o site do MuseNet já facilitado para manipular a IA, então basicamente é só adicionar as notas e o ritmo que você deseja.
 
 ## 🚀 Resultados
-Está localizado na pasta "audio-resultado na raiz do projeto"
+O arquivo está disponível com o nome "audio-resultado na raiz do projeto", sua extensão é .mp3
