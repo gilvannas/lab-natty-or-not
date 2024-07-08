@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Composição Musical
 
 ## 📒 Descrição
 Treinar um modelo para compor música em diferentes estilos musicais (jazz, clássico, eletrônico) a partir de uma entrada inicial (ritmo, tom, instrumentos).
